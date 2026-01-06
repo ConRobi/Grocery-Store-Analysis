@@ -11,4 +11,9 @@ Interesting Findings
 * Most transactions were done in May, with May 1st being an outlier in the dataset because it has the most transactions. 
 * Fresh cut flowers were the most profitable items purchased.
 * Female customers who are 30 or older made up most of the transactions in the dataset.
-* For females, the amount of transactions varied based on the age range, but for males, the amount of transactions were similar. 
+* For females, the amount of transactions varied based on the age range, but for males, the amount of transactions were similar.
+
+<img width="1310" height="473" alt="image" src="https://github.com/user-attachments/assets/f279d067-aa1d-47e5-8b72-ef15d42ba912" />
+<img width="1315" height="633" alt="image" src="https://github.com/user-attachments/assets/d16758e6-7006-4118-b987-d226d0d89cfa" />
+<img width="1274" height="683" alt="image" src="https://github.com/user-attachments/assets/509d4054-9207-44ce-ba7e-0ff52c591221" />
+<img width="1235" height="634" alt="image" src="https://github.com/user-attachments/assets/a59efd99-640e-4e80-97d2-39f8cfbd00c0" />
