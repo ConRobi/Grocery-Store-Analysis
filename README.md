@@ -1,4 +1,8 @@
 # Grocery-Store-Analysis
+
+Author: Connor Robinson
+Date: December 2025
+
 This analysis uses a dataset from OM 420 (University of Alberta). The dataset is from a Canadian grocery store. 
 
 Cleaning the Data
